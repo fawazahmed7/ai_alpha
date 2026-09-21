@@ -1,0 +1,6 @@
+{
+  "name": "Ibrahim",
+  "description": "An advanced AI conversational platform and studio named Ibrahim, powered by the Google Gemini API with real-time streaming, syntax-highlighted code blocks, persistent local conversation history, and customizable runtime parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
